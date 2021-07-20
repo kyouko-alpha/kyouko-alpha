@@ -23,7 +23,7 @@ Asena.addCommand({pattern: 'alive', fromMe: false, desc: Lang.ALIVE_DESC}, (asyn
 
         await message.client.sendMessage(
             message.jid, 
-            fs.readFileSync("/root/WhatsAsenaDuplicated/media/gif/VID-20210209-WA0058.mp4"),
+            fs.readFileSync("/root/WhatsAsenaDuplicated/media/gif/botvoice.mp3"),
             MessageType.audio, 
             { mimetype: Mimetype.mp4Audio, ptt: true}
         )

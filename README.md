@@ -1,19 +1,12 @@
 
-### Special Thanks To:
-
-**[@TOXIC-DEVIL](https://github.com/TOXIC-DEVIL)** for help
-
-**[@Phaticusthiccy](https://github.com/Phaticusthiccy)** for this repo
-
-**[@Farhan-Dqz](https://github.com/farhan-dqz)** Base
 
 
-### What Is MsJessica
+### What Is kyuoku-alpha
 
 
 **▪︎ You Have the All Rights To Re-Edit This Ropo**
 
-**▪︎ Made By [MrChaby](https://github.com/MrChaby)**
+**▪︎ Made By [-](https://github.com/MrChaby)**
 
 **▪︎ Added More Commands**
 

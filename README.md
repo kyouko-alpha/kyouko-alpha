@@ -1,5 +1,5 @@
 <div align="center">
-<a href="#"><img title="kyouko-Alpha" src="https://img.shields.io/badge/Kyouko-alpha-red?colorA=%24#FF0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="kyouko-Alpha" src="https://img.shields.io/badge/Kyouko-alpha-blue?colorA=%24#FF0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
 <p align="center">

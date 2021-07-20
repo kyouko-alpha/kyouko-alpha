@@ -50,8 +50,8 @@ Asena; kyuoko-alpha UserBot,Made by unkwon
 ```
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/85176770?v=4" width="200" height="200">
-  <h1>kyouko-Alpha-V2</h1>
+  <img src="https://avatars.githubusercontent.com/u/87690774?v=4" width="200" height="200">
+  <h1>kyouko-Alpha</h1>
 </div>
 
 
